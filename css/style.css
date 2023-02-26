@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url(../font/gilroy/Gilroy-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url(../font/gilroy/Gilroy-Medium.ttf);
+}
+
+body {
+    background-color: #f0eff4;
+}
+
+.sec-head-but {
+    font-family: 'Gilroy-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 10px 30px;
+    background: #000000;
+    border-radius: 7px;
+}
+
+.sec-head-but:hover {
+    color: #000000;
+    background: #fff;
+    border-radius: 7px;
+    border: 1px solid #000;
+    text-decoration: none;
+}
+
+.sec-book-tex h4 {
+    font-family: 'Gilroy-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.sec-book-tex p {
+    font-family: 'Gilroy-Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+}
+.sec-book-pad{
+    padding-bottom: 100px;
+}
