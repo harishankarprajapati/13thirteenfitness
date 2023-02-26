@@ -101,6 +101,7 @@ body {
     border-radius: 27px;
     margin-top: 30px;
     padding: 30px;
+    margin-bottom: 100px;
 }
 
 .sec-enq-bg p {
@@ -127,4 +128,12 @@ body {
     border: none;
     color: #FFFFFF;
 
+}
+label{
+    font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+color: #333333;
 }
