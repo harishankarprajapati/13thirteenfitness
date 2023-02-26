@@ -191,9 +191,10 @@ label {
 }
 
 /* -------------Packages------------ */
-.sec-padin-dd{
+.sec-padin-dd {
     padding-bottom: 100px;
 }
+
 .sec-roun-bor {
     border: 1px solid #E63946;
     border-radius: 20px;
@@ -211,23 +212,47 @@ label {
     color: #000000;
     text-align: center;
 }
-.sec-p-pp22{
-background-color: #fff;
-font-family: 'Gilroy-SemiBol';
-font-style: normal;
-font-weight: 600;
-font-size: 28px;
-line-height: 33px;
-text-transform: uppercase;
-text-align: center;
-color: #000000;
-}
-.sec-p-text p{
-font-family: 'Gilroy-Medium';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 138.5%;
-color: #000000;
 
+.sec-p-pp22 {
+    background-color: #fff;
+    font-family: 'Gilroy-SemiBol';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 33px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000000;
+}
+
+.sec-p-text p {
+    font-family: 'Gilroy-Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 138.5%;
+    color: #000000;
+
+}
+
+/* ---------------------Memberships----------------- */
+.sec-padin-dd {
+    padding-bottom: 100px;
+}
+
+.sec-roun-bor2 {
+    border: 1px solid #FCBF49;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+.sec-mem-p {
+    font-family: 'Gilroy-Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 138.5%;
+    text-align: center;
+    color: #666666;
 }
