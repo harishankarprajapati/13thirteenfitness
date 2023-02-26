@@ -2,6 +2,7 @@
     font-family: 'Gilroy-SemiBold';
     src: url(../font/gilroy/Gilroy-SemiBold.ttf);
 }
+
 @font-face {
     font-family: 'Gilroy-Medium';
     src: url(../font/gilroy/Gilroy-Medium.ttf);
@@ -49,6 +50,81 @@ body {
     font-size: 16px;
     line-height: 16px;
 }
-.sec-book-pad{
+
+.sec-book-pad {
     padding-bottom: 100px;
+}
+
+.all-lin-sec {
+    color: #000;
+    text-decoration: none;
+}
+
+.all-lin-sec:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+/* ------------------Enquire------------ */
+.back-but {
+    font-size: 30px;
+    background: #000000;
+    padding: 13px 20px;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.back-but:hover {
+    font-size: 30px;
+    background: #fff;
+    padding: 13px 20px;
+    border-radius: 50px;
+    color: #000;
+    border: 1px solid #000;
+}
+
+.back-but2 {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 24px;
+    color: #000;
+}
+
+.back-but2:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.sec-enq-bg {
+    background-color: #cce6e4;
+    width: 46% !important;
+    border-radius: 27px;
+    margin-top: 30px;
+    padding: 30px;
+}
+
+.sec-enq-bg p {
+    font-family: 'Gilroy-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.05em;
+
+    color: #000000;
+}
+
+.sec-fo-but {
+    padding: 10px 30px;
+    background: #00B086;
+    border-radius: 7px;
+    font-family: 'Gilroy-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    border: none;
+    color: #FFFFFF;
+
 }
