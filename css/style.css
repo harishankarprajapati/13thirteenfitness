@@ -111,7 +111,6 @@ body {
     font-size: 24px;
     line-height: 29px;
     letter-spacing: 0.05em;
-
     color: #000000;
 }
 
@@ -136,4 +135,51 @@ font-weight: 600;
 font-size: 15px;
 line-height: 18px;
 color: #333333;
+}
+/* ------------Instant/Self Checkin--------------- */
+.sec-enq-bg2 {
+    background-color: #f1e3de;
+    width: 46% !important;
+    border-radius: 27px;
+    margin-top: 30px;
+    padding: 40px;
+    margin-bottom: 100px;
+}
+.sec-enq-bg2 p {
+    font-family: 'Gilroy-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+.sec-fo-but2 {
+    padding: 10px 30px;
+    background: #F4A261;
+    border-radius: 7px;
+    font-family: 'Gilroy-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    border: none;
+    color: #FFFFFF;
+}
+.sec-book-btn{
+font-family: 'Gilroy-SemiBol';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 17px;
+text-transform: uppercase;
+color: #FFFFFF;
+padding: 9px 20px;
+background: #F4A261;
+border-radius: 7px;
+}
+.sec-book-btn:hover{
+    color: #FFFFFF;
+    text-decoration: none;
 }
