@@ -256,3 +256,33 @@ label {
     text-align: center;
     color: #666666;
 }
+/* ---------------------Service Provider----------- */
+.sec-roun-bor3 {
+    background-color:#d4e4e8 ;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+/* ------------Feedback----------- */
+.sec-fo-but22 {
+    padding: 10px 30px;
+    background: #0582CA;
+    border-radius: 7px;
+    font-family: 'Gilroy-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    border: none;
+    color: #FFFFFF;
+
+}
+.sec-enq-bg22 {
+    background-color: #cddfee;
+    width: 46% !important;
+    border-radius: 27px;
+    margin-top: 30px;
+    padding: 30px;
+    margin-bottom: 100px;
+}
