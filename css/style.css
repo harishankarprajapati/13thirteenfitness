@@ -128,14 +128,16 @@ body {
     color: #FFFFFF;
 
 }
-label{
+
+label {
     font-family: 'Gilroy-SemiBold';
-font-style: normal;
-font-weight: 600;
-font-size: 15px;
-line-height: 18px;
-color: #333333;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #333333;
 }
+
 /* ------------Instant/Self Checkin--------------- */
 .sec-enq-bg2 {
     background-color: #f1e3de;
@@ -145,6 +147,7 @@ color: #333333;
     padding: 40px;
     margin-bottom: 100px;
 }
+
 .sec-enq-bg2 p {
     font-family: 'Gilroy-SemiBold';
     font-style: normal;
@@ -154,6 +157,7 @@ color: #333333;
     letter-spacing: 0.05em;
     color: #000000;
 }
+
 .sec-fo-but2 {
     padding: 10px 30px;
     background: #F4A261;
@@ -167,19 +171,63 @@ color: #333333;
     border: none;
     color: #FFFFFF;
 }
-.sec-book-btn{
+
+.sec-book-btn {
+    font-family: 'Gilroy-SemiBol';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 9px 20px;
+    background: #F4A261;
+    border-radius: 7px;
+}
+
+.sec-book-btn:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/* -------------Packages------------ */
+.sec-padin-dd{
+    padding-bottom: 100px;
+}
+.sec-roun-bor {
+    border: 1px solid #E63946;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+.sec-p-pp2 {
+    font-family: 'Gilroy-SemiBol';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #000000;
+    text-align: center;
+}
+.sec-p-pp22{
+background-color: #fff;
 font-family: 'Gilroy-SemiBol';
 font-style: normal;
 font-weight: 600;
-font-size: 16px;
-line-height: 17px;
+font-size: 28px;
+line-height: 33px;
 text-transform: uppercase;
-color: #FFFFFF;
-padding: 9px 20px;
-background: #F4A261;
-border-radius: 7px;
+text-align: center;
+color: #000000;
 }
-.sec-book-btn:hover{
-    color: #FFFFFF;
-    text-decoration: none;
+.sec-p-text p{
+font-family: 'Gilroy-Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 138.5%;
+color: #000000;
+
 }
